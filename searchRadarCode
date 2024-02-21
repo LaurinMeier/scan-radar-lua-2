@@ -1,4 +1,4 @@
-```lua
+```java
 pi = math.pi
 pi2 = pi*2
 
